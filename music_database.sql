@@ -1,6 +1,3 @@
-DROP SCHEMA HW1 CASCADE;
-CREATE SCHEMA HW1;
-
 --музыкальные жанры
 CREATE TABLE genre (
 	genre_id SERIAL PRIMARY KEY,
